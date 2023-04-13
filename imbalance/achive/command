@@ -1,0 +1,1 @@
+python blo_svrg_fed.py --lr 0.01 --hlr 0.01 --inner_ep 3 --hvp_method global_batch
